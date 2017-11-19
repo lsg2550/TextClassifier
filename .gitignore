@@ -66,3 +66,7 @@ $RECYCLE.BIN/
 build/
 output/
 dist/
+test/
+nbproject/
+build.xml
+manifest.xml
