@@ -69,4 +69,4 @@ dist/
 test/
 nbproject/
 build.xml
-manifest.xml
+manifest.mf
